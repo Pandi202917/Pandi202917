@@ -1,5 +1,3 @@
-## Hi there 
-
 ### Hello World! 👋 I'm Pandimuneeswaran
 - 🚀 Aspiring SAP ABAP Developer transitioning from a Program Management background.
 - 💡 Learning SAP ABAP from scratch and working on real-time projects  
