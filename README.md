@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Pandi202917/Pandi202917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
+## Hi there 
 
 ### Hello World! 👋 I'm Pandimuneeswaran
 - 🚀 Aspiring SAP ABAP Developer transitioning from a Program Management background.
